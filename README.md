@@ -6,3 +6,15 @@ This branch relates to the Gaia DR3 release
 
 
 A place to share codes, snippets, notebooks
+
+
+You can download this branch directly with 
+
+```
+git clone -b gaia https://github.com/mpi-astronomy/mpia-hackdays
+```
+
+or 
+```
+git clone -b git@github.com:mpi-astronomy/mpia-hackdays.git
+```
